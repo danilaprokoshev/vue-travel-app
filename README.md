@@ -1,5 +1,8 @@
 # vue-travel-app
 
+##The educational project for mastering Vue-Router.
+[Vue.js Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone) course on [Vue School](https://vueschool.io).
+
 ## Project setup
 ```
 npm install
